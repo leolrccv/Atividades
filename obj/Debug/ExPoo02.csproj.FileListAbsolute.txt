@@ -1,0 +1,7 @@
+C:\Users\leleo\source\repos\Solution1\ExPoo02\bin\Debug\ExPoo02.exe.config
+C:\Users\leleo\source\repos\Solution1\ExPoo02\bin\Debug\ExPoo02.exe
+C:\Users\leleo\source\repos\Solution1\ExPoo02\bin\Debug\ExPoo02.pdb
+C:\Users\leleo\source\repos\Solution1\ExPoo02\obj\Debug\ExPoo02.csproj.CoreCompileInputs.cache
+C:\Users\leleo\source\repos\Solution1\ExPoo02\obj\Debug\ExPoo02.exe
+C:\Users\leleo\source\repos\Solution1\ExPoo02\obj\Debug\ExPoo02.pdb
+C:\Users\leleo\source\repos\Solution1\ExPoo02\obj\Debug\ExPoo02.csprojAssemblyReference.cache
